@@ -1,5 +1,5 @@
 package com.book.controvl;
-(파일 경로 : src/main/java/com/book/control)
+(파일 경로 : src/main/java/com.book/control)
 
 import com.book.Entity.MemberDTO;
 import com.book.mappers.MemberMapper;
