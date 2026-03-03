@@ -1,5 +1,5 @@
 package com.book.Entity;
-(src/main/java/com.book/Entity)
+(파일 경로 : src/main/java/com.book/Entity)
 
 public class MemberDTO {
     private int id;             
